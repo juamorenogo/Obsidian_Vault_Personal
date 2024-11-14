@@ -1,0 +1,88 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "HfSbjjifEYIsuZ9KmC2d6",
+      "name": "1",
+      "value": "#ff0000"
+    },
+    {
+      "id": "8Tt3bHhfdgppoIO7jDY6R",
+      "name": "2",
+      "value": "#1e00ff"
+    },
+    {
+      "id": "ftwdXE67uluLvBO05Bbon",
+      "name": "3",
+      "value": "#2bff00"
+    },
+    {
+      "id": "N_eawT8t6jgOjbznVrKoc",
+      "name": "4",
+      "value": "#ffffff"
+    },
+    {
+      "id": "u24plResEvQ7TiOs2b9Bo",
+      "name": "5",
+      "value": "#000000"
+    },
+    {
+      "id": "OIZhikhq6hirOwu6d37DN",
+      "name": "6",
+      "value": "#ff7b00"
+    },
+    {
+      "id": "aZv2q5uYXPSfjvwourOn_",
+      "name": "7",
+      "value": "#2effe7"
+    },
+    {
+      "id": "3GifdezRL8wBiec9vR4Bp",
+      "name": "8",
+      "value": "#8000ff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Electronica Análoga",
+      "color": "OIZhikhq6hirOwu6d37DN"
+    },
+    {
+      "path": "C++",
+      "color": "ftwdXE67uluLvBO05Bbon"
+    },
+    {
+      "path": "Utilidades/PDFS",
+      "color": "N_eawT8t6jgOjbznVrKoc"
+    },
+    {
+      "path": "Utilidades/Templates",
+      "color": "N_eawT8t6jgOjbznVrKoc"
+    },
+    {
+      "path": "Circuitos",
+      "color": "HfSbjjifEYIsuZ9KmC2d6"
+    },
+    {
+      "path": "Fluss",
+      "color": "aZv2q5uYXPSfjvwourOn_"
+    },
+    {
+      "path": "Utilidades/Notas Varias",
+      "color": "N_eawT8t6jgOjbznVrKoc"
+    },
+    {
+      "path": "Electronica De Potencia Propio",
+      "color": "3GifdezRL8wBiec9vR4Bp"
+    },
+    {
+      "path": "Utilidades",
+      "color": "N_eawT8t6jgOjbznVrKoc"
+    },
+    {
+      "path": "2024-02",
+      "color": "8Tt3bHhfdgppoIO7jDY6R"
+    }
+  ]
+}
