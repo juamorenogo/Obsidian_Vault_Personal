@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cambio 4.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cambio 4"
+              "title": "2_Playlist"
             }
           }
         ]
@@ -173,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3835dd88d3841b00",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
     "conflict-files-obsidian-git.md",
     "Cambio 4.md",
-    "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
+    "Cambio 5.md",
     "Prueba de cambio.md",
     "Owoowooww/Untitled.md",
     "Owoowooww",
@@ -219,7 +220,6 @@
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/4_Convertidores Con Aislamiento",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation",
-    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md"
+    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md"
   ]
 }
