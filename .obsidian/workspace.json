@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "493cdfa29f8e0bb1",
+        "id": "79b761dedf02dedc",
         "type": "tabs",
         "children": [
           {
-            "id": "e211e96e4b8db15e",
+            "id": "ed7f811e63aa7ef3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cambio 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cambio 3"
+              "title": "New tab"
             }
           }
         ]
@@ -175,9 +171,11 @@
   },
   "active": "3835dd88d3841b00",
   "lastOpenFiles": [
-    "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
-    "Prueba de cambio.md",
     "Cambio 3.md",
+    "conflict-files-obsidian-git.md",
+    "Cambio 2.md",
+    "Prueba de cambio.md",
+    "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
     "Owoowooww/Untitled.md",
     "Owoowooww",
     "Electronica De Potencia Propio/RegulacionDC/3_Video 2h.md",
@@ -218,8 +216,6 @@
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/4_Convertidores Con Aislamiento",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation",
-    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
-    "C++/C++_ch1/Iostream (Libreria).md"
+    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md"
   ]
 }
