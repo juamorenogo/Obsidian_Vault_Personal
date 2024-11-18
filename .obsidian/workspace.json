@@ -11,10 +11,14 @@
             "id": "ed7f811e63aa7ef3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cambio 8.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cambio 8"
             }
           }
         ]
@@ -169,11 +173,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "ed7f811e63aa7ef3",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Cambio 5.md",
-    "Cambio 7.md",
+    "Cambio 8.md",
     "Cambio 6.md",
     "Cambio 2.md",
     "Cambio 3.md",
