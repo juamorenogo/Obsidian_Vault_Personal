@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/PWM/PWM IC.md",
+                "file": "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PWM IC"
+              "title": "2_Switches PE"
             }
           }
         ]
@@ -173,8 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "b5cab3f89c18a0af",
   "lastOpenFiles": [
+    "Electronica De Potencia Propio/Switches PE/1_Fundamentales Electrónica de potencia.md",
+    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
+    "Utilidades/Notas Varias/Backup portatil.md",
+    "Fluss/PWM/PWM IC.md",
+    "Electronica Análoga/Analoga_I/Transistores BJT (Análoga 1).md",
+    "Electronica Análoga/Analoga_I/Diodos (Análoga 1).md",
     "Fluss/PWM/Datasheets/UC1842.PDF",
     "Fluss/PWM/Datasheets/SG3525AP013TR.PDF",
     "Fluss/PWM/Datasheets/TL493.PDF",
@@ -185,19 +191,13 @@
     "Fluss/PWM/Datasheets/UC2842.PDF",
     "Electronica Análoga/Analoga_I/Transistores FET (Análoga 1).md",
     "lol",
-    "Fluss/PWM/PWM IC.md",
     "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.asc",
-    "desktop.ini",
     "Untitled.md",
     "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
-    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-    "Electronica De Potencia Propio/Switches PE/1_Fundamentales Electrónica de potencia.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/1_DC_DC_1.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_AC/DC_AC.md",
-    "Electronica Análoga/Analoga_I/Transistores BJT (Análoga 1).md",
-    "Electronica Análoga/Analoga_I/Diodos (Análoga 1).md",
     "Cambio 11.md",
     "Cambio 10.md",
     "conflict-files-obsidian-git.md",
