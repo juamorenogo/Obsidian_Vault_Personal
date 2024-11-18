@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiAlbum",
       "LiActivity",
       "LiAlignCenter",
-      "LiAnchor",
-      "LiBaggageClaim"
+      "LiAnchor"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "Utilidades/Notas Varias": "LiAlignJustify",
   "Utilidades/Templates": "LiAlignJustify",
   "Electronica De Potencia Propio": "LiActivity",
-  "2024-02": "LiAlbum"
+  "2024-02": "LiAlbum",
+  "Scripts": "LiArchive"
 }

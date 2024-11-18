@@ -41,6 +41,11 @@
       "id": "3GifdezRL8wBiec9vR4Bp",
       "name": "8",
       "value": "#8000ff"
+    },
+    {
+      "id": "0DBQcotCL6l6wKN6cx4eV",
+      "name": "9",
+      "value": "#e600a8"
     }
   ],
   "fileColors": [
@@ -83,6 +88,10 @@
     {
       "path": "2024-02",
       "color": "8Tt3bHhfdgppoIO7jDY6R"
+    },
+    {
+      "path": "Scripts",
+      "color": "0DBQcotCL6l6wKN6cx4eV"
     }
   ]
 }

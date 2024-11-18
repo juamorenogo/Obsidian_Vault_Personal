@@ -173,10 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5cab3f89c18a0af",
+  "active": "3835dd88d3841b00",
   "lastOpenFiles": [
-    "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
+    "Untitled.md",
+    "Scripts/MATLAB/LAB0_Analoga2_Graficas.mlx",
+    "Scripts/MATLAB",
+    "Scripts",
     "Fluss/PWM/PWM IC.md",
+    "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
     "Fluss/PWM/Datasheets",
     "Fluss/PWM",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
@@ -203,7 +207,6 @@
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/3_EMI filter.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/1_Topologias generales1.md",
     "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md",
-    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_ Generaciones.md",
     "Electronica Análoga/Analoga_I/Imagenes/BJT4.png",
     "Electronica Análoga/Analoga_I/Imagenes/BJT3.png",
     "Electronica Análoga/Analoga_I/Imagenes/BJT2.png",
@@ -216,9 +219,6 @@
     "Pasted image 20241023172943.png",
     "Electronica Análoga/Analoga_I",
     "Electronica De Potencia Propio/RegulacionDC/Imagenes",
-    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/Imagenes",
-    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Imagenes",
-    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/5_Convertidor Multinivel",
-    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/4_Convertidores Con Aislamiento"
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/Imagenes"
   ]
 }
