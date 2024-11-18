@@ -173,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3835dd88d3841b00",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Cambio 4.md",
+    "conflict-files-obsidian-git.md",
     "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
     "Prueba de cambio.md",
-    "Cambio 4.md",
     "Owoowooww/Untitled.md",
     "Owoowooww",
     "Electronica De Potencia Propio/RegulacionDC/3_Video 2h.md",
@@ -219,7 +220,6 @@
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
-    "C++/C++_ch1/Iostream (Libreria).md"
+    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md"
   ]
 }
