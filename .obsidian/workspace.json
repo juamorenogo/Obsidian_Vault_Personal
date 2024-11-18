@@ -11,10 +11,14 @@
             "id": "ed7f811e63aa7ef3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cambio 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cambio 2"
             }
           }
         ]
@@ -171,6 +175,9 @@
   },
   "active": "ed7f811e63aa7ef3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Cambio 2.md",
+    "Prueba de cambio.md",
     "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
     "Owoowooww/Untitled.md",
     "Owoowooww",
@@ -213,9 +220,6 @@
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
-    "C++/C++_ch1/Iostream (Libreria).md",
-    "C++/C++_ch1/Inicios C++.md",
-    "Utilidades/Notas Varias/Backup portatil.md"
+    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md"
   ]
 }
