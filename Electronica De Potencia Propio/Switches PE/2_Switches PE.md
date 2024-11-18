@@ -19,15 +19,15 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	
 	_SRC:_  Simbolo usado para un SRC (silicon controller rectifier) siendo el caso mas básico de Thyristor que es unidireccional como un diodo. Se mantendrá prendido mientras _iA > Holding current (iH)_ siendo independiente de lo que ocurre en el _gate_ . 
 	
-	![Thyristor | 500](Thyristor.jpeg)
+	![Thyristor | 500](Imagenes/Thyristor.jpeg)
 	
 	_TRIAC:_ Simbolo usado para un Triac (Triode for AC) modelado como 2 _Thyristors_  haciendo un dispositivo bidireccional de corriente para aplicaciones de baja potencia y fase unica manteniendo encendido mientras que _iA > Holding current (iH)_ siendo independiente de lo que ocurre en el _gate_. 
 	
-	![Triac | 500](Triac.jpeg) 
+	![Triac | 500](Imagenes/Triac.jpeg) 
 
 	_DIAC:_ Simbolo usado para un diac (Diode for Alternating Current) cumple la misma funcionalidad de un diodo normal donde al sobrepasar un _Vt (Voltaje Umbral )_.
 	
-	![Diac](DIAC.jpeg)
+	![Diac](Imagenes/DIAC.jpeg)
 	
 * Controlled switch: Con terminal de control y control de apagado y cerrado _(BJT , MOSFET , IGBT , GTO THYRISTOR  MCT)_.
 * 
