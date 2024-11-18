@@ -30,21 +30,18 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	![Diac](Imagenes/DIAC.jpeg)
 	
 * Controlled switch: Con terminal de control y control de apagado y cerrado _(BJT , MOSFET , IGBT , GTO THYRISTOR  MCT)_.
-* 
+
 	Fundamentado desde elementos con base de _transistor_ o _thyristor_. 
-	
-	![[Transistores FET (Análoga 1)]]
-	![[Transistores BJT (Análoga 1)]]
 	
 	_IGBT_ : Elemento hibrido donde la parte de control es la del MOSFET y la parte de transmision de energia es la de un BJT. Combina la conmutacion a altas frecuencias del MOSFET con la bjt perdida de potencia del BJT . ( RECOMENDADO)
 	
-	![igbt | 400](IGBT.jpeg)
+	![igbt | 400](Imagenes/IGBT.jpeg)
 	
 	Usados para aplicaciones de alta potencia y frecuencia como controladores de motores y generación eólica / hidráulica.
 	
 	_GTO_: Opera de manera similar a un thyristor con la diferencia en su construcción física que permite el apagado del elemento por medio de una corriente negativa en su compuerta. 
 	
-	![gto|500](GTO.jpeg)
+	![gto|500](Imagenes/GTO.jpeg)
 	
 	_MCT (MOS-Controlled Thyristor)_: Elemento hibrido poco usado en la industria que combina MOSFET con Thyristor. 
 	
