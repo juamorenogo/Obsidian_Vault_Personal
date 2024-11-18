@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cambio 5.md",
+                "file": "Cambio 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cambio 5"
+              "title": "Cambio 6"
             }
           }
         ]
@@ -173,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e211e96e4b8db15e",
+  "active": "3835dd88d3841b00",
   "lastOpenFiles": [
     "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
     "conflict-files-obsidian-git.md",
     "Cambio 4.md",
-    "Cambio 5.md",
+    "Cambio 6.md",
     "Prueba de cambio.md",
     "Owoowooww/Untitled.md",
     "Owoowooww",
