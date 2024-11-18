@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica Análoga/Analoga_I/Transistores FET (Análoga 1).md",
+                "file": "Fluss/PWM/PWM IC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transistores FET (Análoga 1)"
+              "title": "PWM IC"
             }
           }
         ]
@@ -173,20 +173,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5cab3f89c18a0af",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Fluss/PWM/Datasheets/UC1842.PDF",
+    "Fluss/PWM/Datasheets/SG3525AP013TR.PDF",
+    "Fluss/PWM/Datasheets/TL493.PDF",
+    "Fluss/PWM/Datasheets/XR-2207.PDF",
+    "Fluss/PWM/Datasheets/SG2524.PDF",
+    "Fluss/PWM/Datasheets/SG2524 (1).PDF",
+    "Fluss/PWM/Datasheets/SG2525AP013TR.PDF",
+    "Fluss/PWM/Datasheets/UC2842.PDF",
+    "Electronica Análoga/Analoga_I/Transistores FET (Análoga 1).md",
     "lol",
     "Fluss/PWM/PWM IC.md",
     "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.asc",
     "desktop.ini",
-    "Scripts/LTSPICE",
     "Untitled.md",
-    "Scripts/MATLAB/LAB0_Analoga2_Graficas.mlx",
-    "Scripts/MATLAB",
-    "Scripts",
     "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
-    "Fluss/PWM/Datasheets",
-    "Fluss/PWM",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
     "Electronica De Potencia Propio/Switches PE/1_Fundamentales Electrónica de potencia.md",
@@ -203,14 +206,11 @@
     "Cambio 4.md",
     "Prueba de cambio.md",
     "Owoowooww/Untitled.md",
-    "Owoowooww",
     "Electronica De Potencia Propio/RegulacionDC/3_Video 2h.md",
     "Electronica De Potencia Propio/RegulacionDC/1_Videos.md",
     "2024-02/To do.md",
-    "2024-02",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/3_EMI filter.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/1_Topologias generales1.md",
-    "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md",
     "Electronica Análoga/Analoga_I/Imagenes/BJT4.png",
     "Electronica Análoga/Analoga_I/Imagenes/BJT3.png",
     "Electronica Análoga/Analoga_I/Imagenes/BJT2.png",
