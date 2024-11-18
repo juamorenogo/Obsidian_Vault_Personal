@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cambio 4.md",
+                "file": "Cambio 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cambio 4"
+              "title": "Cambio 5"
             }
           }
         ]
@@ -173,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed7f811e63aa7ef3",
+  "active": "3835dd88d3841b00",
   "lastOpenFiles": [
     "Cambio 2.md",
-    "Cambio 4.md",
+    "Cambio 5.md",
     "Cambio 3.md",
     "conflict-files-obsidian-git.md",
     "Prueba de cambio.md",
