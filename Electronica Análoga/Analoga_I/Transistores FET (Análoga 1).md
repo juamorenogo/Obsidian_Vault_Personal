@@ -46,7 +46,7 @@ El punto de operacion ***Q*** se halla con la interseccion lineal de otra ecuaci
 
 Todos los _MOSFETS_ se rigen por la siguiente ecuación:
 
-$$ \Large I_{D} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
+$$ \Large I_{D} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2} (1+\lambda V_{{DS}})$$
 
 Para cada caso, lo que cambia es la polaridad de _Vgs_ y _Vth_. Por otro lado, la constante **K (Constante del parámetro del MOSFET de transconductancia)** se expresa en  _A / V^2_.
 
