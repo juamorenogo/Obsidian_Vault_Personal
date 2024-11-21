@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
+                "file": "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3_Operación de switches PE"
+              "title": "2_Motor DC y Choppers"
             }
           }
         ]
@@ -175,17 +175,18 @@
   },
   "active": "b5cab3f89c18a0af",
   "lastOpenFiles": [
-    "Scripts/LTSPICE/LAB0_Analoga2_x1.net",
+    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/MotorDc_1.png",
+    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
     "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.op.raw",
-    "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.raw",
     "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.log",
+    "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.raw",
     "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.net",
-    "Scripts/LTSPICE/LAB0_Analoga2_x1.op.raw",
-    "Scripts/LTSPICE/LAB0_Analoga2_x1.log",
-    "Scripts/LTSPICE/LAB0_Analoga2_x1.raw",
     "Scripts/LTSPICE/LAB0_Analoga2_x10.op.raw",
     "Scripts/LTSPICE/LAB0_Analoga2_x10.log",
     "Scripts/LTSPICE/LAB0_Analoga2_x10.raw",
+    "Scripts/LTSPICE/LAB0_Analoga2_x10.net",
+    "Scripts/LTSPICE/LAB0_Analoga2_x1.op.raw",
+    "Scripts/LTSPICE/LAB0_Analoga2_x1.log",
     "Electronica De Potencia Propio/Switches PE/1_Fundamentales Electrónica de potencia.md",
     "Fluss/PWM/PWM IC.md",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
@@ -195,7 +196,6 @@
     "Electronica Análoga/Analoga_I/Transistores FET (Análoga 1).md",
     "Untitled.md",
     "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
-    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/1_DC_DC_1.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_AC/DC_AC.md",
