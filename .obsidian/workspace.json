@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MOSFET",
+                "query": "tag:#Potencia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +185,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "index-notes:New note by copying metadata of focused note": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "46cb811aba2fe3fe",
   "lastOpenFiles": [
-    "Fluss/PWM/22_11_24.md",
+    "2024-02/2024-02.md",
     "2024-02/Finanzas/Notas (1).md",
+    "Electronica Análoga/Electronica Análoga.md",
+    "Electronica Análoga/Analoga_I/Analoga_I.md",
+    "Untitled.md",
+    "2024-02/Finanzas/Imagenes",
+    "2024-02/Finanzas/Imagenes/F1.png",
+    "Fluss/PWM/22_11_24.md",
     "2024-02/Finanzas",
     "Fluss/PWM/PWM IC.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/MotorDc1.png",
@@ -206,7 +213,6 @@
     "Scripts/LTSPICE/LAB0_Analoga2_Barridofrecuencias.net",
     "Scripts/LTSPICE/LAB0_Analoga2_x1.op.raw",
     "Scripts/LTSPICE/LAB0_Analoga2_x1.log",
-    "Scripts/LTSPICE/LAB0_Analoga2_x1.raw",
     "Electronica De Potencia Propio/Switches PE/1_Fundamentales Electrónica de potencia.md",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "Utilidades/Notas Varias/Backup portatil.md",
@@ -223,9 +229,6 @@
     "Cambio 4.md",
     "Prueba de cambio.md",
     "Owoowooww/Untitled.md",
-    "Electronica De Potencia Propio/RegulacionDC/3_Video 2h.md",
-    "Electronica De Potencia Propio/RegulacionDC/1_Videos.md",
-    "2024-02/To do.md",
     "Electronica Análoga/Analoga_I/Imagenes/BJT4.png",
     "Electronica Análoga/Analoga_I/Imagenes/BJT3.png",
     "Electronica Análoga/Analoga_I/Imagenes/BJT2.png",
@@ -233,7 +236,6 @@
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet6.jpeg",
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet5.png",
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet4.png",
-    "Electronica Análoga/Analoga_I/Imagenes/Mosfet3.png",
-    "Electronica Análoga/Analoga_I/Imagenes/Mosfet2.png"
+    "Electronica Análoga/Analoga_I/Imagenes/Mosfet3.png"
   ]
 }
