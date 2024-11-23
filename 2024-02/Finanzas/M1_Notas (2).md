@@ -61,6 +61,6 @@ Un **cambio en el precio** *no afecta notablemente* la **cantidad demandada**.
 
 	Linea Vertical --> Caso extremo
 
-![[Imagenes/F7.png]]
+![](Imagenes/F7.png)
 
 Un **cambio en el precio no elimina** la demanda de un bien o producto. Solo a un precio constante se tiene valores de demanda.
