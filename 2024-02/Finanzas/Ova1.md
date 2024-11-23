@@ -2,13 +2,6 @@
 
 Tags: #Finanzas #M1 #Ova
 
-# Medición de la competitividad
-
-No existe un método perfecto para esta medición, no obstante, al tomar datos de muchos lugares, se puede estimar. 
-
-
----
-# Ova 1
 
 * _Interés :_ Manifestación del dinero en el tiempo.
 $$ I = F-P$$
@@ -61,6 +54,4 @@ $$ i = \frac {F- P} {P}$$
   - **TIR > CC:** El proyecto genera valor.
   - **TIR < TIO:** Existen alternativas más rentables.
 
----
-# Ova 2
 
