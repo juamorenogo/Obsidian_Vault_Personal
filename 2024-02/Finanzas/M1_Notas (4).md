@@ -43,6 +43,30 @@ Si el banco central aumenta el encaje --> Los bancos tienen _menos dinero para p
 ##### Encaje bajo y estimulación
 Si el banco central baja el encaje --> Los bancos pueden _prestar mas dinero_ --> Estimula la inversión y el consumo --> Si es excesivo --> Aumenta la inflación.
 
+![](Imagenes/F14.png)
+
+---
+# Tasa de Cambio
+
+Relación entre 2 monedas, en Colombia se toma como base el _Dólar_. --> TRM (**Tasa representativa del Mercado**) Establece la relación entre el peso colombiano y el dólar.
+
+## Variación de TRM
+
+#### Disminuye si (Dólar mas barato):
+* Inversión extranjera.
+* Exportaciones
+* Crédito externo
+#### Aumenta si (Dólar mas caro):
+* Inversión en el extranjero.
+* Importaciones
+* Pago de deudas extranjeras.
+
+---
+# Tasa de intervención
+
+Determinan el costo mínimo de los recursos del pais. --> Referencia para la _politica monetaria_.
+
+
 
 
 
