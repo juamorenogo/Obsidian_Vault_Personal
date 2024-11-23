@@ -60,9 +60,7 @@ $$ i = \frac {F- P} {P}$$
   - **TIR > TMAR:** El proyecto es viable.
   - **TIR > CC:** El proyecto genera valor.
   - **TIR < TIO:** Existen alternativas más rentables.
-  
-Se espera que:
-#### TIR > TMAR > CC y TMAR --> TIO |-| CC
 
 ---
 # Ova 2
+
