@@ -35,7 +35,7 @@ Divididos en:
 	Servicios.
 ## Flujo circular de la renta
 
-![|400](F1.png)
+![|400](Imagenes/F1.png)
 
 Descripción de la interacción entre los diferentes agentes.
 
