@@ -14,11 +14,12 @@ $$ VPN = \sum_{t=1}^{n} \frac{F_t}{(1 + r)^t} - I_{0}$$
 	n: Número total de períodos.
 	Io​: Inversión inicial.
 
+![](OvasPics/FO1.png)
 
 Se debe tener en cuenta :
 
-* El valor inicial de la  inversión.
-* Tiempo de ejecución.
+* El valor inicial de la inversión.
+* Tiempo de ejecución (Horizonte del proyecto).
 * Flujos de dinero para el tiempo de ejecución.
 
 Al conocer estos 3 factores, se pueden descontar del flujo total, obteniendo la _TMAR (tasa mínima atractiva de retorno)_.
@@ -39,4 +40,6 @@ Al conocer estos 3 factores, se pueden descontar del flujo total, obteniendo la 
     - Los flujos de caja futuros no son suficientes para recuperar la inversión inicial.
 
 
+# Si se asume VPN = 0 
 
+Se puede determinar una tasa de rendimiento implícita --> _TIR (Tasa Interna de Retornos)_.  Al despejar para **k** en la ecuación de **VPN**.  Indica rentabilidad de la inversión frente a unos flujos de caja durante la inversion.
