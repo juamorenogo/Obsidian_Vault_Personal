@@ -43,7 +43,7 @@ Descripción de la interacción entre los diferentes agentes.
 
 * *Flujo Real* : Movimiento de bienes, servicios y factores de producción (como trabajo, tierra y capital) entre los agentes económicos. Este flujo representa las transacciones físicas y materiales en la economía.
 
-## Agentes económicos
+### Agentes económicos
 #### Estado
 Provee bienes y servicios públicos a las empresas y personas. (_Flujo Real_)
 Así mismo las empresas y Personas pagan impuestos al estado. (_Flujo Monetario_)
