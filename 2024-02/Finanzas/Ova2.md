@@ -4,7 +4,7 @@ Tags: #Finanzas #Ova #M1
 
 ## Valor presente neto (VPN)
 
-Herramienta usada para evaluar si una inversión o proyecto es viable desde el punto de vista financiero. Determina el valor actual de una serie de __flujos de efectivo futuros__ .
+Herramienta usada para evaluar si una inversión o proyecto es viable desde el punto de vista financiero. El **Valor Presente Neto (VPN)** es el valor actual de los flujos de caja futuros generados por un proyecto, descontados a una tasa de interés, menos la inversión inicial.
 
 $$ VPN = \sum_{t=1}^{n} \frac{F_t}{(1 + r)^t} - I_{0}$$
 
