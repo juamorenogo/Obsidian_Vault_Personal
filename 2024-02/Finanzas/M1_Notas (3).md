@@ -12,6 +12,15 @@ Conjunto de instrumentos cuantitativos y cualitativos para :
 
 Herramientas que miden el _rendimiento_ , _salud_ y _estabilidad_ de una economía. Proporcionan información cuantitativa a comprender la situación del momento. 
 
+---
+### PIB per capita
+Nace de la siguiente relacion :
+
+$$ PIB\, per\,capita  = \frac {PIB}{Poblacion} $$
+
+Medida del ingreso promedio por persona, usado para comparar nivel de riqueza entre diferentes zonas.
+
+---
 ### Producto interno bruto (PIB)
 
 Valor total de bienes y servicios producidos en un pais durante un periodo especifico. 
