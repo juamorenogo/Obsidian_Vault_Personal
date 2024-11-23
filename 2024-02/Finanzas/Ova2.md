@@ -22,7 +22,7 @@ Se debe tener en cuenta :
 * Tiempo de ejecución (Horizonte del proyecto).
 * Flujos de dinero para el tiempo de ejecución.
 
-Al conocer estos 3 factores, se pueden descontar del flujo total, obteniendo la _TMAR (tasa mínima atractiva de retorno)_.
+Al conocer estos 3 factores, se pueden descontar del flujo de dinero total, obteniendo la _TMAR (tasa mínima atractiva de retorno)_.
 
 ### **Interpretación del VPN:**
 
@@ -40,6 +40,17 @@ Al conocer estos 3 factores, se pueden descontar del flujo total, obteniendo la 
     - Los flujos de caja futuros no son suficientes para recuperar la inversión inicial.
 
 
-# Si se asume VPN = 0 
+#### Si se asume VPN = 0 (TIR)
 
-Se puede determinar una tasa de rendimiento implícita --> _TIR (Tasa Interna de Retornos)_.  Al despejar para **k** en la ecuación de **VPN**.  Indica rentabilidad de la inversión frente a unos flujos de caja durante la inversion.
+Se puede determinar una tasa de rendimiento implícita --> _TIR (Tasa Interna de Retornos)_.  Al despejar para **k** en la ecuación de **VPN**.  Indica rentabilidad de la inversión frente a unos flujos de caja durante la inversión.
+
+ * *TIR :* La tasa a la cual los flujos de caja descontados son iguales  a la inversion inicial. --> Se calcula considerando a los flujos de caja ocurren en __intervalos regulares de tiempo (Debe coiincidir con los intervalos de horizonte)__.    
+
+![](OvasPics/FO2.png)
+
+Por lo que un proyecto será viable si:
+* ***TIR > TMAR***
+
+# Relacion TMAR y TD
+
+Cuando k = TIR =TMAR = 0, genera una _TD (tasa de descuento)_ que determina finalmente la viabilidad de un proyecto frente a factores endógenos o exógenos.
