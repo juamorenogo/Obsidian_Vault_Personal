@@ -2,16 +2,15 @@
 
 Tags: #Finanzas #M1
 
-# Indicadores Macro-económicos
-
-Herramientas que miden el _rendimiento_ , _salud_ y _estabilidad_ de una economía. Proporcionan información cuantitativa a comprender la situación del momento. 
-
-## Medición Económica
+# Medición Económica
 
 Conjunto de instrumentos cuantitativos y cualitativos para :
 * Reducir incertidumbre 
 * Diseño de políticas sociales y económicas
 * Herramientas de control
+# Indicadores Macro-económicos
+
+Herramientas que miden el _rendimiento_ , _salud_ y _estabilidad_ de una economía. Proporcionan información cuantitativa a comprender la situación del momento. 
 
 ### Producto interno bruto (PIB)
 
@@ -38,14 +37,34 @@ $$ PIB = C+G+I+(X-M) $$
 	I : Inversion --> Gasto en bienes de capital, como maquinaria, infraestructura, etc...
 	 X : Exportaciones --> Valor de los bienes y servicios nacionales, vendidos al extranjero
 	M : Importacions --> Valor de los bienes y servicios internacionales, comprados al extranjero. 
-
 #### Calculo por Oferta agregada 
 Se enfoca en el valor producido __Vp__:
 
 $$ PIB = Vp -Ci+T-S $$
 	
 	Vp : Valor producido --> 
-	Ci : Consumo intermedio --> Gasto publico en bienes y servicios. (No incluye transferencias como pensiones o subsidios)
-	I : Inversion --> Gasto en bienes de capital, como maquinaria, infraestructura, etc...
-	 X : Exportaciones --> Valor de los bienes y servicios nacionales, vendidos al extranjero
-	M : Importacions --> Valor de los bienes y servicios internacionales, comprados al extranjero. 
+	Ci : Consumo intermedio --> 
+	T : Impuestos netos --> 
+	S : Subsidios --> 
+#### Calculo por distribución de Renta 
+
+
+$$ PIB = Ebe +RA +T $$
+	
+	Ebe : Excedente Bruto de explotacion --> Se refiere a beneficios empresariales. 
+	Ci : Consumo intermedio --> Rentas de trabajo (Salarios). 
+	T : Impuestos netos sobre la produccion -->  
+
+
+*Balanza comercial* :Mide la relacion entre bienes y servicios que un pais compra y los que vende (__Importaciones y Exportaciones__).  
+
+---
+
+## Medicion del empleo
+
+![](Imagenes/F8.png)
+
+![](Imagenes/F9.png)
+## Otros indicadores 
+
+![](F10.png)
