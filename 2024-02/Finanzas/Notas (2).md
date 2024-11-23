@@ -43,6 +43,7 @@ Cambio porcentual % entre la cantidad sobre el precio:
 ![](Imagenes/F3.png)
 
 Se crean dos posibles casos:
+![](Imagenes/F4.png)
 
 ### e > 1 Demanda Elástica (Cantidad > Precio)
 
@@ -58,4 +59,8 @@ Un **cambio en el precio elimina** toda la demanda de un bien o producto. Solo a
 
 Un **cambio en el precio** *no afecta notablemente* la **cantidad demandada**.
 
-![](Imagenes/F4.png)
+	Linea Vertical --> Caso extremo
+
+![[Imagenes/F7.png]]
+
+Un **cambio en el precio no elimina** la demanda de un bien o producto. Solo a un precio constante se tiene valores de demanda.
