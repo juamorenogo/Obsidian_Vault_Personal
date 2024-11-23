@@ -7,7 +7,7 @@ Tags: #Finanzas #M1
 Aumento generalizado y sostenido de los precios de bienes y servicios en un tiempo dado.
 El calculo viene dado por:
 
-$$ Tasa \,\, Inflacion \% = \frac {IPC_{Actual}-IPC_{Anterior}}{IPC_{Anterior}}*100$$
+$$ Tasa \,\, Inflacion \% = \frac {IPC_{Actual}-IPC_{Anterior}}{IPC_{Anterior}}*100 $$
 
 Precios suben rápido --> Aumenta la inflación.
 
