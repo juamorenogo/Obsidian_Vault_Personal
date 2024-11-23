@@ -66,8 +66,13 @@ Relación entre 2 monedas, en Colombia se toma como base el _Dólar_. --> TRM (*
 ---
 # Tasa de intervención
 
-Determinan el costo mínimo de los recursos del pais. --> Referencia para la _politica monetaria_.
+Interés que el banco central da a entidades financieras por prestamos a corto plazo o el interés que dan al banco central al consignar en el banco central.
 
+Costo del dinero que establece en banco central para regular la liquidez de la economía --> Interviene en el mercado monetario --> Determinan el costo mínimo de los recursos del pais. --> Referencia para la _política monetaria_.
+
+![](Imagenes/F15.png)
+
+![](Imagenes/F16.png)
 
 
 
