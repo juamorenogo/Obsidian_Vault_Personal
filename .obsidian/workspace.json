@@ -123,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Potencia",
+                "query": "tag:#M1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,7 +245,7 @@
       "index-notes:New note by copying metadata of focused note": false
     }
   },
-  "active": "8325e904556875f6",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
     "2024-02/Finanzas/M1_Notas (4).md",
     "M1_Notas (5).md",
