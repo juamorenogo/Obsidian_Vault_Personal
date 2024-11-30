@@ -1,0 +1,12 @@
+* C:\Users\User\Documents\Obsidian_Vault_Personal\Scripts\LTSPICE\Draft1.asc
+V1 A 0 PWL(0 0 0.1 8 100001u 0 0.2 8 200001u 0 0.3 8)
+R1 A Vgs 10k
+M1 Vgs Vgs 0 0 Test1
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.mos
+.tran 0.3
+.MODEL Test1 NMOS (LEVEL=1 CBD=0.5p CBS=0.5p CGDO=0.1p CGSO=0.1p GAMMA=.85
++ KP=333u L=10E-6 LAMBDA=0.029 PHI=.9 VTO=0.55 W=20E-6)
+.backanno
+.end
